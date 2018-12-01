@@ -1,0 +1,7 @@
+# Sales-Tax
+Print List of all Items
+
+1 - Clone Project using command "git clone https://github.com/zubairdumca09/Sales-Tax.git"
+2 - Once cloning is done then run another command is "cd Sales-Tax
+3 - run command "npm install"
+4 - run command "npm start"
