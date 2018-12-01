@@ -1,0 +1,11 @@
+{
+  "env": {
+    "production": {
+      "plugins": ["transform-remove-console"]
+    }
+  },
+  "presets": [
+    "es2015",
+    "react",
+  ]
+}

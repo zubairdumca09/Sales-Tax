@@ -1,0 +1,32 @@
+footer{
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  display:block;
+  border-top:1px solid #D6D6D6;
+  padding-top: 5px;
+  margin-top: 10px;
+}
+header{
+  border-bottom: 1px solid #D6D6D6;
+  color: #333333
+}
+.d-flex{
+  display: flex;
+}
+.main{
+  margin-top: 20px;
+  min-height: 100%;
+}
+::placeholder{
+  opacity: 0.3;
+}
+::-webkit-input-placeholder{
+  opacity: 0.3;
+}
+::-ms-input-placeholder{
+  opacity: 0.3;
+}
+::-moz-placeholder{
+  opacity: 0.3;
+}
